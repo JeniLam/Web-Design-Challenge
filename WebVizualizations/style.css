@@ -20,9 +20,17 @@
   .nav-item {
     font-weight: bold;
   }
+
+  .main-image {
+      max-width: 100%
+  }
   .text-left {
     text-align: left;
     color: rgb(20, 150, 150);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 1.2em "Fira Sans", sans-serif;
     font-weight: bolder;
+  }
+
+  .thumbnail {
+    width:50%;
   }
