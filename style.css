@@ -24,14 +24,37 @@
   .main-image {
       max-width: 100%
   }
+
+  .image{
+    flex-basis: 40%
+  }
   .text-left {
     text-align: left;
     color: rgb(20, 150, 150);
     font-family: 1.2em "Fira Sans", sans-serif;
     font-weight: bolder;
+    padding-left: 20px;
   }
 
   .thumbnail {
     width:50%;
   }
   
+  .rounded float right thumbnail{
+    max-width: 50%;
+    height: auto;
+  }
+
+  .rounded float-left  thumbnail{
+    max-width: 50%;
+    height: auto;
+  }
+
+  p {
+    font-size:large; 
+    font-family: 1.2em Fira Sans, 
+    sans-serif; color: rgb(153, 160, 160);
+    font-weight: bolder;
+    padding-left: 20px;
+
+  }
