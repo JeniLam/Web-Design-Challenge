@@ -69,3 +69,8 @@
     padding-bottom: 10px;
     background-color: rgb(218, 226, 223)
   }
+
+  .table-responsive {
+    padding-left: 30px; 
+    padding-right: 30px;
+  }
