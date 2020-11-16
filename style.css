@@ -38,11 +38,13 @@
 
   .thumbnail {
     width:50%;
+    padding: 5px;
   }
   
   .rounded float right thumbnail{
     max-width: 50%;
     height: auto;
+    padding-left: 5px;
   }
 
   .rounded float-left  thumbnail{
