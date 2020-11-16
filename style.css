@@ -75,5 +75,16 @@
   }
 
   .col-6-auto { 
-    padding: 40px
+    padding: 40px;
+  }
+
+  .table {
+    max-height:500px;
+  }
+
+  /* https://css-tricks.com/position-sticky-and-table-headers/ */
+  th {
+    position:sticky;
+    top: 0;
+
   }
