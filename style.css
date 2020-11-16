@@ -48,6 +48,10 @@
   .rounded float-left  thumbnail{
     max-width: 50%;
     height: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
   }
 
   p {
@@ -56,5 +60,12 @@
     sans-serif; color: rgb(153, 160, 160);
     font-weight: bolder;
     padding-left: 20px;
+  }
 
+  body {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(218, 226, 223)
   }
