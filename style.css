@@ -76,3 +76,13 @@
     padding-left: 30px; 
     padding-right: 30px;
   }
+
+  .float-left {
+    max-width: 100%;
+    padding: 20px
+  }
+
+  .float-right {
+    max-width: 100%;
+    padding: 20px;
+  }
